@@ -1,6 +1,6 @@
 # E05-Input
 
-This is an exercise to help you become accustomed to how Godot treats user input.
+This is an exercise in Godot that helps code for user input, allowing to move the spaceship.
 
 Instructions are as follows:
  - Fork and Clone this repository. Choose a location where it will be downloaded on your computer.
